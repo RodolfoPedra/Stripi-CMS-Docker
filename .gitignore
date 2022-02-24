@@ -1,0 +1,41 @@
+############################
+# Linux
+############################
+
+*~
+
+############################
+# Node.js
+############################
+
+app/lib-cov
+app/lcov.info
+app/pids
+app/logs
+app/results
+app/node_modules
+app/.node_history
+
+############################
+# Tests
+############################
+
+app/testApp
+app/coverage
+
+############################
+# Strapi
+############################
+
+app/.env
+app/license.txt
+app/exports
+app/*.cache
+app/build
+app/.strapi-updater.json
+
+############################
+# Postgres
+############################
+
+data
